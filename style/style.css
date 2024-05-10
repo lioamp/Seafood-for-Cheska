@@ -1,5 +1,5 @@
 .bg-restaurant {
-    background-image: url('D:/Documents/Personal/Seafood for Cheska/images/restaurant-background.png');
+    background-image: url('/images/restaurant-background.png');
     background-size: cover;
     background-position: center;
 }
